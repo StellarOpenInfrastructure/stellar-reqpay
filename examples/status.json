@@ -1,0 +1,17 @@
+{
+  "v": "REQPAY/1",
+  "id": "01J8ZK5R8V2Q6X4T9W7YB3N5MD",
+  "status": "paid",
+  "received": "25.5",
+  "payments": [
+    {
+      "tx_hash": "7f0c4d5e6a7b8c9d0e1f2a3b4c5d6e7f8091a2b3c4d5e6f708192a3b4c5d6e7f",
+      "ledger": 123456,
+      "paid_at": "2026-03-01T10:03:12Z",
+      "amount": "25.5",
+      "asset": "USDC:GBBD47IF6LWK7P7MDEVSCWR7DPUWV3NY3DTQEVFL4NAT4AQH3ZLLFLA5",
+      "source": "GCXQCY4DKUJDJ2FUJQYKBR5ULK2XKYQZGIHWDMPGA2N5UNCHBGRCRCFH"
+    }
+  ],
+  "updated_at": "2026-03-01T10:03:15Z"
+}

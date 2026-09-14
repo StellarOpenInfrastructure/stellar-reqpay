@@ -1,0 +1,10 @@
+{
+  "v": "REQPAY/1",
+  "id": "tip-jar-2026",
+  "network": "Public Global Stellar Network ; September 2015",
+  "destination": "GAEB2QI5MVRGIBBJRSPYLQQ7WCLDFYFQ3Q2PRVMQBZQMEG3XF32OLBGA",
+  "asset": "native",
+  "created_at": "2026-03-01T10:00:00Z",
+  "description": "Tip the band",
+  "memo": { "type": "text", "value": "tips" }
+}
